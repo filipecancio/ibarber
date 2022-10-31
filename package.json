@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:filipecancio/ibarber.git",
   "author": "Filipe Câncio <filipe.cancio@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-microphone": "^0.1.5"
+  }
 }
