@@ -1,0 +1,8 @@
+{
+  "name": "ibarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:filipecancio/ibarber.git",
+  "author": "Filipe Câncio <filipe.cancio@gmail.com>",
+  "license": "MIT"
+}
